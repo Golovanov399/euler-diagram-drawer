@@ -16,5 +16,5 @@
 
 ## Ссылки
 
-https://www.cs.kent.ac.uk/pubs/2008/2824/content.pdf
-https://arxiv.org/pdf/1201.3011.pdf
+- https://www.cs.kent.ac.uk/pubs/2008/2824/content.pdf
+- https://arxiv.org/pdf/1201.3011.pdf
